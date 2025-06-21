@@ -1,3 +1,12 @@
+chroma_db/
+.env
+.venv/
+.vscode/
+.gradio/
+docs*/
+input_file/*
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
